@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheUniqueNumber", "FindTheUniqueNumber\FindTheUniqueNumber.csproj", "{FF3735E8-05CC-4002-92C2-F02DDA38B383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF3735E8-05CC-4002-92C2-F02DDA38B383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3735E8-05CC-4002-92C2-F02DDA38B383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3735E8-05CC-4002-92C2-F02DDA38B383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3735E8-05CC-4002-92C2-F02DDA38B383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {506EA725-9073-46D9-A93E-D38E71E6FC55}
+	EndGlobalSection
+EndGlobal
